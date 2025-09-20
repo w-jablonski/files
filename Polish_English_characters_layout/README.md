@@ -20,7 +20,7 @@ Some conditions that affected the layout:
 Some decisions:
 * For simplicity, vowels are put together and AEIO is the home row. The frequent IE shall be a comfortable roll with strong fingers
 * Frequent bigrams RZ, SZ, CZ, DZ are inward rolls and NSRT are chosen for home row. Put together, this forces Z to the inner column and then T with it, as TZ is rare
-* Hands are kept "up". Dropping to bottom row, especially with index and middle finges, feels slow. This runs against the "curl" principle as I understand it, and touches C, Z, L, H
+* Hands are kept "up". Dropping to bottom row, especially with index and middle fingers, feels slow. This runs against the "curl" principle as I understand it, and touches C, Z, L, H
 * SZCZ needs to be comfy. This is subtle but for one, S and C are on different columns
 * X, C, V cannot be put next to where they originally were. I have Ctrl+XCV mapped to their original positons, and hitting e.g Ctrl+C to accomplish Ctrl+V would be weird
 
