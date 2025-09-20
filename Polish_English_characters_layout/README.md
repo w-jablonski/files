@@ -28,8 +28,8 @@ Some decisions:
 
 ### Recommendation
 
-Another person is working on a Polish+English layout and their results seem to be much better than mine so far. As it seems, their layout has been (at the time of writing) 
-published only in this Reddit [thread](https://www.reddit.com/r/KeyboardLayouts/comments/1leon5u/keyboard_layout_advice_enpl/). I allow myself to quote it here: 
+Another person is working on a Polish+English layout and their results seem to be much better than mine so far. As it seems, their layout has been (at the time of writing) published only in 
+this Reddit [thread](https://www.reddit.com/r/KeyboardLayouts/comments/1leon5u/keyboard_layout_advice_enpl/). I allow myself to quote it (at the time of writing, Sept 2025): 
 ```
 p g l m f  q o u y d
 n s r t j  x a e i h
