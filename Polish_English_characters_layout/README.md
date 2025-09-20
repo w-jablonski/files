@@ -5,7 +5,8 @@
 ### Layout 1
 
 What's perhaps unique to this layout, its original version (and the one I use) leaves the lowest pinkies blank — I have modifiers there and I believe this is a good idea. For one, it allows Ctrl+XCV without finger-breaking. 
-See my whole setup at a separete repo (WIP). See the layout's [statistics](https://cyanophage.github.io/playground.html?layout=qdczv%3Dguyx%3Bnsrtlhaeio%27kwmb*fp%2C.j%5C%2F-&mode=ergo&lan=polish&thumb=l) at the Cyanophage's excellent layout playground.
+See my whole setup at a separete [repo](https://github.com/w-jablonski/double_podium) (WIP). 
+See the layout's [statistics](https://cyanophage.github.io/playground.html?layout=qdczv%3Dguyx%3Bnsrtlhaeio%27kwmb*fp%2C.j%5C%2F-&mode=ergo&lan=polish&thumb=l) at Cyanophage's excellent Layout Playground.
 
 <img width="550" alt="odczaj" src="https://github.com/user-attachments/assets/ce0c4ddf-42f4-4b4c-8728-66dd42feb60f" />
 <img width="550" alt="odczaj3" src="https://github.com/user-attachments/assets/c2b22d06-3eef-4f24-927d-35a004f36150" />
@@ -29,12 +30,14 @@ Some decisions:
 ### Recommendation
 
 Another person is working on a Polish+English layout and their results seem to be much better than mine so far. As it seems, their layout has been (at the time of writing) published only in 
-this Reddit [thread](https://www.reddit.com/r/KeyboardLayouts/comments/1leon5u/keyboard_layout_advice_enpl/). I allow myself to quote it (at the time of writing, Sept 2025): 
+this Reddit [thread](https://www.reddit.com/r/KeyboardLayouts/comments/1leon5u/keyboard_layout_advice_enpl/). 
+<!--I allow myself to quote it (at the time of writing, Sept 2025): 
 ```
 p g l m f  q o u y d
 n s r t j  x a e i h
 b c w z v  ? _ , . k
 ```
+-->
 This exhibits many similarities to my layout presented above. And putting O above A seems like a good idea. I indeed tried putting O above E and didn't like it — the hand felt "undecided" and I would often 
 mistype the two letters. However, with the vowel pair now being at the index finger this feels like the hand is indeed more "free" to switch between the two. Great job so far!
 
@@ -60,7 +63,7 @@ https://klawa.zori.pl/
 
 <br><br><br><br><br><br><br><br>
 
-
+<!--    -->
 
 
 
