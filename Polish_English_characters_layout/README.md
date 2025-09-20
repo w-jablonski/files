@@ -5,24 +5,24 @@
 ### Layout 1
 
 What's perhaps unique to this layout, its original version (and the one I use) leaves the lowest pinkies blank — I have modifiers there and I believe this is a good idea. For one, it allows Ctrl+XCV without finger-breaking. 
-See the layout's [statictics](https://cyanophage.github.io/playground.html?layout=vdczjqguyx-nsrtlhaeio%27%3Dwmkbfp%2C.%2F%5C*%3B&mode=ergo&lan=polish&thumb=l) at the Cyanophage's excellent layout playground.
+See my whole setup at a separete repo (WIP). See the layout's [statistics](https://cyanophage.github.io/playground.html?layout=qdczv%3Dguyx%3Bnsrtlhaeio%27kwmb*fp%2C.j%5C%2F-&mode=ergo&lan=polish&thumb=l) at the Cyanophage's excellent layout playground.
 
 <img width="550" alt="odczaj" src="https://github.com/user-attachments/assets/ce0c4ddf-42f4-4b4c-8728-66dd42feb60f" />
 <img width="550" alt="odczaj3" src="https://github.com/user-attachments/assets/c2b22d06-3eef-4f24-927d-35a004f36150" />
 
 <br>
 
-Some circumstances that affected the layout: 
+Some conditions that affected the layout: 
 * Lowest pinkies are unavailable
 * I am using a straight grid keboard (not ergonomic or columnar stagger) so upper pinkies are pretty hard to reach
 * My right hand sits at an angle (while the left is more straight). This makes the HE lateral stretch and H>A slide comfortable. However, G and Q are now harder to reach
 
 Some decisions:
-* For simplicity, vowels are put together and AEIO on the home row. The frequent IE shall be a comfortable roll with strong fingers
+* For simplicity, vowels are put together and AEIO is the home row. The frequent IE shall be a comfortable roll with strong fingers
 * Frequent bigrams RZ, SZ, CZ, DZ are inward rolls and NSRT are chosen for home row. Put together, this forces Z to the inner column and then T with it, as TZ is rare
 * Hands are kept "up". Dropping to bottom row, especially with index and middle finges, feels slow. This runs against the "curl" principle as I understand it, and touches C, Z, L, H
 * SZCZ needs to be comfy. This is subtle but for one, S and C are on different columns
-* X, C, V cannot be put next to where they originally were. I have Ctrl+XCV mapped to their original positon, and hitting e.g Ctrl+C to accomplish Ctrl+V would be weird
+* X, C, V cannot be put next to where they originally were. I have Ctrl+XCV mapped to their original positons, and hitting e.g Ctrl+C to accomplish Ctrl+V would be weird
 
 <br>
 
@@ -36,13 +36,13 @@ n s r t j  x a e i h
 b c w z v  ? _ , . k
 ```
 This exhibits many similarities to my layout presented above. And putting O above A seems like a good idea. I indeed tried putting O above E and didn't like it — the hand felt "undecided" and I would often 
-mistype the two letters. However, with the vowel pair now being at the index finger this feels like the hand is indeed more "free" to switch between the two keys. Great job so far!
+mistype the two letters. However, with the vowel pair now being at the index finger this feels like the hand is indeed more "free" to switch between the two. Great job so far!
 
 <br>
 
 ### Ideas
 
-Putting ZT under middle finger seems also possible — provided that SZCZ and STRZ can still be typed comfortably, which I think they can. See below. This could possibly allow fitting H under left hand or reduce lateral stretches.
+Putting ZT under middle finger seems also possible. See below for a sketch that hopefully allows SZCZ, STRZ, RZ, SZ, CZ, DZ and CH to be typed comfortably. This could possibly allow fitting H under left hand or reduce lateral stretches.
 
 <img width="240" alt="idea_kb" src="https://github.com/user-attachments/assets/1cd6947f-602a-487d-bb74-d003c5b23692" />
 
