@@ -35,3 +35,5 @@ https://www.reddit.com/r/KeyboardLayouts/comments/1leon5u/keyboard_layout_advice
 https://www.kordos.com/keyboard.html
 
 https://klawa.zori.pl/
+
+https://editor.keyboard-tools.xyz/
