@@ -60,34 +60,6 @@ https://klawa.zori.pl/
 
 <br><br><br><br><br><br><br><br>
 
-<!-- ... 
-
-include inward rolls on some frequent-est Polish bigrams like IE, RZ, SZ, CZ, DZ. 
-Others are a lateral stretch on HE (Colemak style) and same-finger HA, neither of which I find uncomfortable.
-<br><br><br><br><br>
-
-<p align="center"> </p>
-
-
-
-However, with the UU now being at index I imagine this comes across as the two vowels are now at index finger, the hand feels more mobile.
-
-Some features 
-
-Some circumstances that shaped up this layout: 
-opposes
-is aligned to the keyboard
-SFB  Same Finger Bigram
-
-Curl
-curl" principle in "hands down layout" refers to a design philosophy that leverages the natural inward curling motion
-
-than they could be
-(SFB) from H to A
--->
-
-
-
 
 
 
