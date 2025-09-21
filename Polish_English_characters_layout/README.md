@@ -39,7 +39,7 @@ b c w z v  ? _ , . k
 ```
 -->
 This exhibits many similarities to my layout presented above. And putting O above A seems like a good idea. I indeed tried putting O above E and didn't like it — the hand felt "undecided" and I would often 
-mistype the two letters. However, with the vowel pair now being at the index finger this comes across as the hand is indeed more "free" to switch between the two. Great job so far!
+mistype the two letters. However, with the vowel pair now being at the index finger this comes across as if the hand is indeed more "free" to switch between the two. Great job so far!
 
 <br>
 
