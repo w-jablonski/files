@@ -20,7 +20,7 @@ Some conditions that affected the layout:
 
 Some decisions:
 * For simplicity, vowels are put together and AEIO is the home row. The frequent IE shall be a comfortable roll with strong fingers
-* Frequent bigrams RZ, SZ, CZ, DZ are inward rolls and NSRT are chosen for home row. Put together, this forces Z to the inner column and then T with it, as TZ is rare
+* Frequent bigrams RZ, SZ, CZ, DZ are inward rolls and NSRT are chosen for the home row. Put together, this forces Z to the inner column and then T with it, as TZ is rare
 * Hands are kept "up". Dropping to bottom row, especially with index and middle fingers, feels slow. This runs against the "curl" principle as I understand it, and touches C, Z, L, H
 * SZCZ needs to be comfy. This is subtle but for one, S and C are on different columns
 * X, C, V cannot be put next to where they originally were. I have Ctrl+XCV mapped to their original positons, and hitting e.g Ctrl+C to accomplish Ctrl+V would be weird
@@ -39,7 +39,7 @@ b c w z v  ? _ , . k
 ```
 -->
 This exhibits many similarities to my layout presented above. And putting O above A seems like a good idea. I indeed tried putting O above E and didn't like it — the hand felt "undecided" and I would often 
-mistype the two letters. However, with the vowel pair now being at the index finger this feels like the hand is indeed more "free" to switch between the two. Great job so far!
+mistype the two letters. However, with the vowel pair now being at the index finger this comes across as the hand is indeed more "free" to switch between the two. Great job so far!
 
 <br>
 
