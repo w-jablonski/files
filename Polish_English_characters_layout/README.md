@@ -5,7 +5,7 @@
 ### Layout 1
 
 What's perhaps unique to this layout, its original version (and the one I use) leaves the lowest pinkies blank — I have modifiers there and I believe this is a good idea. For one, it allows Ctrl+XCV without finger-breaking. 
-See my whole setup at a separete [repo](https://github.com/w-jablonski/double_podium) (WIP). 
+See my whole setup at a separete [repo](https://github.com/w-jablonski/double_podium). 
 See the layout's [statistics](https://cyanophage.github.io/playground.html?layout=qdczv%3Dguyx%3Bnsrtlhaeio%27kwmb*fp%2C.j%5C%2F-&mode=ergo&lan=polish&thumb=l) at Cyanophage's excellent Layout Playground.
 
 <img width="550" alt="odczaj" src="https://github.com/user-attachments/assets/ce0c4ddf-42f4-4b4c-8728-66dd42feb60f" />
@@ -23,7 +23,7 @@ Some decisions:
 * Frequent bigrams RZ, SZ, CZ, DZ are inward rolls and NSRT are chosen for the home row. Put together, this forces Z to the inner column and then T with it, as TZ is rare
 * Hands are kept "up". Dropping to bottom row, especially with index and middle fingers, feels slow. This runs against the "curl" principle as I understand it, and touches C, Z, L, H
 * SZCZ needs to be comfy. This is subtle but for one, S and C are on different columns
-* X, C, V cannot be put next to where they originally were. I have Ctrl+XCV mapped to their original positons, and hitting e.g Ctrl+C to accomplish Ctrl+V would be weird
+* X, C, V cannot be put next to where they originally were. I have Ctrl+XCV mapped to their original positons, and hitting e.g. Ctrl+C to accomplish Ctrl+V would be weird
 
 <br>
 
