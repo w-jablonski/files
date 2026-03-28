@@ -3,31 +3,33 @@
 """
 hotedge — A clickable/hoverable trigger window (aka hot corner/hot edge) for Wayland
 
-Create an empty window and execute a custom command if a combination of keyboard modifiers
+Create an empty window and execute a custom command when a combination of keyboard modifiers
 (optional) and mouse button/wheel/hover occurs over that window. By design, a modifier+hover
 event will be detected even if the hover (i.e. mouse entering the window) happens first.
-Bindings with NO modifier key (e.g. plain left-click) will never fire in mods-only=yes mode.
+Optionally passes through unmodified (plain) mouse events (see mods-only=yes below).
 Should continue to work after keyboard replug.
+
+https://www.reddit.com/r/niri/comments/1s66nli/vibe_coded_a_hot_cornerhot_edge_script_that/
 
 Dependencies: pyside6, python-evdev, user must be in the 'input' group
 Tested with: Sway, Niri, pyside6 6.11.0, python-evdev 1.9.3
 
 Flags:
-    --color=RRGGBBAA      Window fill color as 8 hex digits (default: 00FF0066)
-    --app-id=STRING       Wayland app_id as seen by the WM
-    --size=WxH            Window size in pixels (default: 200x200)
-    --hover-delay=INT     Milliseconds pointer must stay in window to trigger hover (default: 30)
-    --mods-only=yes|no    If yes, the window only shows up when a modifier key is held
-                          (i.e. it will never catch non-modified mouse events).
-                          This uses evdev to monitor keys globally, so the user must be
-                          in the 'input' group (or run as root). Default: no
-    --act=SPEC            Action spec: [mod+]* + mouse_action
-                          Modifiers:     alt  ctrl  shift  win
-                          Mouse actions: hover  left  middle  right  back  forward
-                                         wheel_up  wheel_down  wheel_left  wheel_right
-    --run=CMD             Command to run when any immediately preceding --act fires.
-                          Multiple --act flags before one --run are OR'd together
-    --debug               Send debug messages to output
+    --color=RRGGBBAA    Window fill color as 8 hex digits (default: 00FF0066)
+    --app-id=STRING     Wayland app_id as seen by the WM
+    --size=WxH          Window size in pixels (default: 200x200)
+    --hover-delay=INT   Milliseconds pointer must stay in window to trigger hover (default: 30)
+    --mods-only=yes|no  If yes, the window only shows up when a modifier key is held
+                        (i.e. it will never catch unmodified mouse events).
+                        This uses evdev to monitor keys globally, so the user must be
+                        in the 'input' group (or run as root). Default: no
+    --act=SPEC          Action spec: [mod+]* + mouse_action
+                        Modifiers:     alt  ctrl  shift  win
+                        Mouse actions: hover  left  middle  right  back  forward
+                                       wheel_up  wheel_down  wheel_left  wheel_right
+    --run=CMD           Command to run when any immediately preceding --act fires.
+                        Multiple --act flags before one --run are OR'd together
+    --debug             Send debug messages to output
 
 Examples:
 
